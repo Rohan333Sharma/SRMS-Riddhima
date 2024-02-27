@@ -5,4 +5,4 @@
 
 - The code cannot be shared due to institutional policies, so only the apk is provided.
 - Working video of the app:
-  - https://drive.google.com/file/d/18BPq-uSP9V8HfekIHm0tHw5t_18sxk4r/view?usp=sharing
+  - https://drive.google.com/file/d/15iWHL4cn8rkUtuBvj9XE-N1vRcp8ondm/view?usp=drive_link
